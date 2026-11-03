@@ -19,7 +19,7 @@
 
             @if ($paymentMethods->isEmpty())
                 <div class="alert alert-warning">
-                    Belum ada metode pembayaran aktif dari admin saat ini.
+                    Belum ada metode pembayaran aktif dari admin saat iniii.
                 </div>
             @else
                 <div class="row g-3">
